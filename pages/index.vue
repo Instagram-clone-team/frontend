@@ -1,6 +1,8 @@
 <template>
   <div class="min-h-screen w-full border-r border-r-[#DBDBDB]">
-    <div class="bg-slate-300 h-[100px]"></div>
+    <div class="bg-slate-300 h-[100px]">
+      <Story/>
+    </div>
 
     <div class="flex justify-center">
       <div>
