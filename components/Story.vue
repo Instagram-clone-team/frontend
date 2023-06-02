@@ -1,5 +1,5 @@
 <template>
-  <div class="flex gap-[20px] ml-[100px] mt-[100px]">
+  <div class="flex gap-[20px]">
     <div class="flex flex-col items-center">
       <img class="w-[56px] h-[56px] rounded-full" src="../public/images/story-profile-1.png" alt="">
       <p class="text-[12px] text-center">itsdfghjou</p>
